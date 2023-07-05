@@ -25,8 +25,7 @@ Creation of Dockerfile, Use the official Python image as the base image, Set the
 Copy the requirements file to the working directory, install requirements, Copy the application code to the working directory, Set the environment variables for the Flask app, Expose the port on which the Flask app will run, Start the Flask app when the container is run
 
 
-$  docker build -t <image_name> .
-![image](https://github.com/Groakss/CloudAppK8/assets/113557766/ee845bb9-cead-44e8-bff8-c3f067b23c72)
+$  docker build -t myapp .
 
 ![image](https://github.com/Groakss/CloudAppK8/assets/113557766/b39b0a3c-5dfa-433f-ade3-eeafc89a1afe)
 
