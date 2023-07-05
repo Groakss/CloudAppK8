@@ -1,5 +1,5 @@
 # CloudAppK8
-**Cloud Monitoring app on K8s with solution to problems/ hickups**
+**Cloud Monitoring flask app on K8s with solution to problems/ hickups**
 
 Monitoring app deploying locally which is going to get cpu and memory utilization metric {app.py}
 In python we got several modules to do tasks, so we will use Psutil, it is the module needs to be imported in app.py
